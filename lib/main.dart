@@ -1,6 +1,7 @@
-import 'package:app/prefs/style.dart';
-import 'package:app/prefs/theme_provider.dart';
+
 import 'package:flutter/material.dart';
+import 'package:nightmodeexample/prefs/style.dart';
+import 'package:nightmodeexample/prefs/themeprovider.dart';
 import 'package:provider/provider.dart';
 
 void main() {

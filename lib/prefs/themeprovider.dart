@@ -1,6 +1,7 @@
-import 'package:app/prefs/preference.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:nightmodeexample/prefs/preference.dart';
 
 class ThemeProvider with ChangeNotifier{
   bool _darkTheme = false;
